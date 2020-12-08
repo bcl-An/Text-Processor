@@ -61,4 +61,4 @@ try {
 ![列表yxjg.png图片](https://github.com/bcl-An/Text-Processor/blob/main/yxjg.png "运行结果") 
 ![列表yxjg.png图片](https://github.com/bcl-An/Text-Processor/blob/main/scwj.png "输出文件") 
 ## 感想
-通过实验五，我基本掌握了利用IO流读取文件及写文件的方法，并重温了String及StringBuffer的相关方法。同时，又一次使用交互输入使得我对scanner愈发熟悉。
+通过实验五，我基本掌握了利用IO流读取文件及写文件的方法，并重温了String及StringBuffer的相关方法。同时，又一次使用交互输入使得我对scanner愈发熟悉。另外，这是我第一次在Java程序的编写中同时多次应用条件分支语句和循环语句，相信日后我能编写出更加灵活高效的程序。
