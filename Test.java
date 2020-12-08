@@ -50,12 +50,10 @@ public class Test {
             }
         }
         //统计古诗中某个字或词出现的次数
-        String s1 = new String(s);
-        int i = 0;
-        int count = 0;
-        while(s1.indexOf(args[0],i)>=0){
+        int i = 0，count = 0;
+        while(s.indexOf(args[0],i)>=0){
             count++;
-            i=s1.indexOf(args[0],i)+args[0].length();
+            i=s.indexOf(args[0],i)+args[0].length();
         }
         System.out.println(args[0]+"出现次数为"+count+"次。");
     }
