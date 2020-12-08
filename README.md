@@ -35,8 +35,8 @@ FileReader in = null;
 StringBuffer s = new StringBuffer();
 try {
     in = new FileReader("B.txt");
-    char[] chars = new char[7];
-    for (int i = 1;in.read(chars) !=-1&&i<=34;i++){
+    char[] chars = new char[7];  //创建七维字符数组，方便处理文本
+    for (int i = 1;in.read(chars) !=-1&&i<=34;i++){  //利用for循环语句简化程序结构
     //处理文本
         String str = new String(chars);
         if (i%2==1){
