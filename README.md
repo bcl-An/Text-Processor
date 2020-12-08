@@ -56,5 +56,5 @@
         }
 ```
 ## 运行截图
-![列表yxjg.png图片](https://github.com/bcl-An/Course/blob/main/yxjg.png "运行结果") 
+![列表yxjg.png图片](https://github.com/bcl-An/Text-Processor/blob/main/yxjg.png "运行结果") 
 ## 感想
